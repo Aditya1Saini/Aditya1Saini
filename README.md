@@ -45,42 +45,10 @@
 
 ---
 
-## 📊 GitHub Stats:
-
-![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshit7492&show_icons=true&theme=dark&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit7492&layout=compact&theme=dark)](https://github.com/harshit7492/github-readme-stats)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=322b2b71265a1b7a37bdd6ba982986fd&theme=dark)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=harshit7492&theme=dark&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies:
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=harshit7492&theme=dark)
-
----
-
-## 🚀 Notable Projects:
-
-### [![BitBox Logo](https://github.com/Bitbox-Connect/Bitbox/blob/main/client/src/assets/images/logo_notBg.png)](https://bitbox-in.netlify.app/)
-*BitBox* is a dynamic collaboration platform built with React, Node.js, and TailwindCSS. It offers an intuitive environment where users can create, join, and manage projects collectively.
-
----
-
-## 💡 Open Source Contributions:
-
-### Roles and Contributions:
-#### GSSoC'24 Extended & GSSOC'24
-- *Project Admin:* Managed repositories, mentored contributors, and ensured project progress after the main event.
-- *Contributor:* Fixed bugs, implemented features, and collaborated with developers on open-source projects.
-
----
-
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=zues&font=Redressed&quoteType=quote-for-the-day)
 
 ## 🌍 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/harshit-singh8/)
-- [GitHub](https://github.com/Harshit7492)
-- 📧 Email: [Harshit28k@gmail.com](mailto:Harshit28k@gmail.com)
-- 🌐 [Portfolio](link_to_your_portfolio)
+- [LinkedIn](https://www.linkedin.com/in/aditya-saini-4ab21a242/)
+- [GitHub](https://github.com/Aditya1Saini/)
+- 📧 Email: [workwithsainiaditya@gmail.com](mailto:workwithsainiaditya@gmail.com)
+- 🌐 [Portfolio](https://aditya1saini.github.io/About-me/)
