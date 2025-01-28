@@ -7,7 +7,7 @@
 ## 👨‍💻 Profile Summary
 
 - 👀 *Interests:* Passionate about programming languages like Python, C, C++, and JavaScript.
-- 🌱 *Learning:* Currently focused on Java and Node.js, diving deep into full-stack web development.
+- 🌱 *Learning:* Currently focused on Java ,pyhon and machine larning, diving deep into new technologies.
 - 💞️ *Collaboration:* Open to exciting web development projects and open-source contributions.
 - 📫 *Reach Me:* [workwithadityasaini18@gmail.com](workwithadityasaini18@gmail.com)
 
